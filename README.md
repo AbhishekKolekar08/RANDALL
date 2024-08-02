@@ -28,12 +28,12 @@ I wanted to implement a "quality per unit time", which gives a greater understan
 
 For games over 100 hours, the metric broke and needed a weird math formula to normalize it, making it uncomparable, leading to the obsolescence of the metric.
 
-#### Was this project necessary?
+### Was this project necessary?
 Not really, but neither is continuous learning daily. I just felt like messing around.
 
 *It mainly helps me practice writing code documentation and find new errors that can occur while uploading on git (and, of course, how to solve them).*
 
-#### Will I ever finish my backlog?
+### Will I ever finish my backlog?
 Maybe, maybe not. Idk. Does it even matter?
 
 
