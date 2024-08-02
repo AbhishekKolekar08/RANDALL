@@ -23,12 +23,12 @@ Then RANDALL applies a weighted randomness to the list to recommend 1 chill and 
 Yeabsolutely! The List just has to be Ludicrously Long.
 
 ### Stuff that didn't work
-I wanted to implement a "quality per unit time", which gives a greater understanding of how good a game is over its length. The rationale is to compare the quality of games of different lengths (eg. comparing **The Witcher 3** to **A Plague Tale: Innocence**.
+I wanted to implement a "quality per unit time", which gives a greater understanding of how good a game is over its length. The rationale is to compare the quality of games of different lengths (eg. comparing **The Witcher 3** to **A Plague Tale: Innocence**. For games over 100 hours, the metric broke and needed a weird math formula to normalize it, making it uncomparable, leading to the obsolescence of the metric.
 
 #### Was this project necessary?
 Not really, but neither is continuous learning daily. I just felt like messing around.
 
 #### Will I ever finish my backlog?
-Maybe, maybe not. Idk.
+Maybe, maybe not. Idk. Does it even matter?
 
 
