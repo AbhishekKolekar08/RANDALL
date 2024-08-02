@@ -16,24 +16,24 @@ RANDALL takes my list (`GamesBacklog.xlsx`) of video games that I've sorted for 
 - Am I playing a particular game right now? We don't want RANDALL to recommend an ongoing game, so it removes that subset of games from the list.
 Then RANDALL applies a weighted randomness to the list to recommend 1 chill and 1 serious game, which I can start.
 
-### Learnings
+## Learnings
 - A hands-on use of the [Pandas](https://pandas.pydata.org/) library
 - Debugging
 
-### Can this be applied to any other lists
+## Can this be applied to any other lists
 Yeabsolutely! The List just has to be Ludicrously Long.
 
-### Stuff that didn't work
+## Stuff that didn't work
 I wanted to implement a "quality per unit time", which gives a greater understanding of how good a game is over its length. The rationale is to compare the quality of games of different lengths (eg. comparing **The Witcher 3** to **A Plague Tale: Innocence**. 
 
 For games over 100 hours, the metric broke and needed a weird math formula to normalize it, making it uncomparable, leading to the obsolescence of the metric.
 
-### Was this project necessary?
+## Was this project necessary?
 Not really, but neither is continuous learning daily. I just felt like messing around.
 
 *It mainly helps me practice writing code documentation and find new errors that can occur while uploading on git (and, of course, how to solve them).*
 
-### Will I ever finish my backlog?
+## Will I ever finish my backlog?
 Maybe, maybe not. Idk. Does it even matter?
 
 
